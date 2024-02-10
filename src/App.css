@@ -1,0 +1,80 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* just for the use of comments during the code */
+
+p{
+  font-size: 50px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+  padding-top: 15px;
+}
+
+/* just for the use of comments during the code */
+
+#imgg{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 420px;
+  width: 666px;
+  border-radius: 20px;
+}
+
+/* just for the use of comments during the code */
+
+#tt{
+  font-size: 30px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+  padding-top: 15px;
+}
+
+/* just for the use of comments during the code */
+
+body{
+  background-image: url("//i0.wp.com/toiletovhell.com/wp-content/uploads/2020/08/inktober_2017_teeming_by_vk6_dbr47gt.jpg?resize=710%2C375&ssl=1") !important;
+}
+
+/* just for the use of comments during the code */
+
+#tre{
+  background-image: url("https://images4.alphacoders.com/132/1329894.png");
+  background-size: cover;
+}
